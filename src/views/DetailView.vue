@@ -110,7 +110,7 @@ export default {
         </div>
 
         <div class="col-12 px-5 BarDetailAction">
-          <a class="getTicket"><img src="/assets/img/get_ticket.png" /></a>
+          <a class="getTicket" href="https://liff.line.me/1657256835-VrMKDJ6W/member/giftbox?key=cc9bfd1e448d8e53020829b87f22" target="_blank"><img src="/assets/img/get_ticket.png" /></a>
           <a class="previous" @click="toPrevious()"><img src="/assets/img/previous_member.png" /></a>
         </div>
       </div>
