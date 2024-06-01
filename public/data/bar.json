@@ -194,14 +194,14 @@
   {
     "id": 21,
     "location": "北部",
-    "class": "派對聚餐",
-    "store_name": "Valley22",
-    "store_phone": "0227840555",
-    "store_address": "台北市大安區安和路二段22號",
-    "store_fb": "https://www.facebook.com/Valley22taipei/",
-    "store_ig": "https://www.instagram.com/valley22_taipei/",
-    "subtitle": "解放自由的靈魂💥",
-    "description": "Valley22強調調酒的美感，將藝術融合進調酒中，最簡單的調酒在Valley22也能展現出多呈次的風味。搭配氣氛感十足的燈光設計、令人放鬆的音樂，解放自由的靈魂，盡情享受質感之夜吧!"
+    "class": "特色店家",
+    "store_name": "Blursday",
+    "store_phone": "0227783679",
+    "store_address": "台北市大安區敦化南路一段160巷32號1樓",
+    "store_fb": "https://www.facebook.com/BlursdayDraft.Cafe/",
+    "store_ig": "https://www.instagram.com/blursday_draft.cafe/",
+    "subtitle": "時尚且迷幻的韓系酒吧",
+    "description": "位在捷運忠孝敦化站週邊，長型空間裝潢設計以橘紅色為主色調，不僅時尚有帶有設計感，blursday有多種酒款、特調、水煙及咖啡可以選擇，也有一些手作甜點可以吃，很適合下班吃完飯，與三五好友來放鬆聊天小酌!"
   },
   {
     "id": 22,
@@ -1042,5 +1042,17 @@
     "store_ig": "https://www.instagram.com/yojo.bistro?igsh=MTlrajN1enVvM3l6ZQ%3D%3D&utm_source=qr",
     "subtitle": "夜晚的故事由你來書寫",
     "description": "以深藍色為主色調的空間，舒適又不失高級感，點上一盞盞鵝黃色的暖燈，配上一杯精緻夢幻的調酒，來這裡和酉酒一起書寫屬於你的夜晚故事吧!"
+  },
+  {
+    "id": 108,
+    "location": "北部",
+    "class": "特色店家",
+    "store_name": "Fuzzy April",
+    "store_phone": "0227202221",
+    "store_address": "台北市信義區仁愛路四段462號1樓",
+    "store_fb": "https://www.facebook.com/p/Fuzzy-April-%E5%9B%9B%E6%9C%88Bar-Bistro-100091820838680/?paipv=0&eav=AfZf31qOUe4khcEt5TZVy-WWM5z4ea5fSCyTIbBhC9yjqBLrcL0WmPeNJLmgrH_qoSo&_rdr",
+    "store_ig": "https://www.instagram.com/fuzzyapril.tw/",
+    "subtitle": "城市綠洲茶酒吧",
+    "description": "夜後無論是想來杯好茶或是調酒微醺放鬆，Fuzzy April 四月餐酒館都是最好的選擇。!"
   }
 ]
