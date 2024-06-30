@@ -28,7 +28,7 @@
     "location": "北部",
     "class": "深夜酒吧",
     "store_name": "Enjoy",
-    "store_phone": "0225791678",
+    "store_phone": "0225791678",    
     "store_address": "台北市松山區北寧路6號",
     "store_fb": "https://www.facebook.com/enjoymathson/?locale=zh_TW",
     "store_ig": "https://www.instagram.com/enjoy_mathson_/",
@@ -1054,5 +1054,53 @@
     "store_ig": "https://www.instagram.com/fuzzyapril.tw/",
     "subtitle": "城市綠洲茶酒吧",
     "description": "夜後無論是想來杯好茶或是調酒微醺放鬆，Fuzzy April 四月餐酒館都是最好的選擇。!"
+  },
+  {
+    "id": 109,
+    "location": "北部",
+    "class": "晚餐小酌",
+    "store_name": "Beginning夢",
+    "store_phone": "0227388900",
+    "store_address": "台北市大安區和平東路三段70-2號1樓",
+    "store_fb": "",
+    "store_ig": "https://www.instagram.com/beginning_dream_2023/",
+    "subtitle": "溫馨極簡風的餐酒館",
+    "description": "位於捷運六張犁站附近的隱密酒吧，店內溫馨、小而巧的感覺，非常適合下班小酌、放鬆，而且22:00後的宵夜超級豐富，不管是漢堡排、滷肉飯、炒泡麵，甚至還有炸牛排，再搭配店家精心自製的調酒，絕對是一大享受"
+  },
+  {
+    "id": 110,
+    "location": "中部",
+    "class": "特色店家",
+    "store_name": "AM / PM",
+    "store_phone": "0423128195",
+    "store_address": "台中市西屯區文心路三段54號1F",
+    "store_fb": "https://www.facebook.com/p/AMPM_Bar-100057480608023/",
+    "store_ig": "",
+    "subtitle": "木質調簡約風格酒吧",
+    "description": "位於文心路上，木質調裝潢與簡約的空間感，給人舒適的放鬆感，白天咖啡廳，晚上搖身一變為拉麵店、酒吧，喝酒前，考慮吃一碗香噴噴的雞白湯拉麵墊墊胃，就可以進入正題，好好的品嘗店家特調。"
+  },
+  {
+    "id": 111,
+    "location": "南部",
+    "class": "深夜酒吧",
+    "store_name": "酌",
+    "store_phone": "072691885",
+    "store_address": "高雄市苓雅區中華四路57號",
+    "store_fb": "https://www.facebook.com/zhuobartw/",
+    "store_ig": "",
+    "subtitle": "詩情畫意的深夜酒吧",
+    "description": "店內滿滿的詩意氛圍，搭配質感的裝潢，讓人馬上想品嘗一杯有故事的調酒，無論是跟朋友去或一個人的獨處，皆能好好的享受夜晚的時光!"
+  },
+  {
+    "id": 112,
+    "location": "南部",
+    "class": "晚餐小酌",
+    "store_name": "C'est Bon",
+    "store_phone": "075225503",
+    "store_address": "高雄市鼓山區美術東六街149號",
+    "store_fb": "https://www.facebook.com/cestbonbistro/",
+    "store_ig": "https://www.instagram.com/cest_bon_kh/",
+    "subtitle": "精緻歐洲風格餐酒館",
+    "description": "隱藏在高雄美術館，店內有種歐式溫馨感，招牌是獨有的火焰料理，有多種風味義大利麵/燉飯/排餐搭配獨創特色調酒&無酒精特調飲，除了朋友相揪來聚餐，也非常適合帶伴侶一起來喔!"
   }
 ]
