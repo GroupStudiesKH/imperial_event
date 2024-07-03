@@ -110,7 +110,7 @@ export default {
         </div>
 
         <div class="col-12 px-5 BarDetailAction">
-          <a class="getTicket" href="https://inspire-your-new.accuhit.com.tw/member/giftbox?key=a24a844769eaa77cd43b2f01ca851e7f" target="_blank"><img src="/assets/img/get_ticket.png" /></a>
+          <a class="getTicket" href="https://liff.line.me/1657256835-VrMKDJ6W/member/giftbox?key=a24a844769eaa77cd43b2f01ca851e7f" target="_blank"><img src="/assets/img/get_ticket.png" /></a>
           <a class="previous" @click="toPrevious()"><img src="/assets/img/previous_member.png" /></a>
         </div>
       </div>
