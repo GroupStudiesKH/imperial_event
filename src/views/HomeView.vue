@@ -17,9 +17,9 @@ export default {
     const northShopData = ref([]);
     const midShopData = ref([]);
     const southShopData = ref([]);
-    const northShopHighlight = ref([10, 40, 17, 4, 14, 16, 39, 20, 109, 32]);
+    const northShopHighlight = ref([10, 42, 17, 108, 13, 24, 18, 20, 109, 38]);
     const northPage = ref(1);
-    const midShopHighlight = ref([50, 51, 47, 52, 58, 45, 68, 110, 46]);
+    const midShopHighlight = ref([50, 51, 62, 52, 58, 45, 55, 68, 110, 46]);
     const midPage = ref(1);
     const southShopHighlight = ref([79, 94, 82, 103, 83, 111, 96, 86, 112, 107]);
     const southPage = ref(1);
