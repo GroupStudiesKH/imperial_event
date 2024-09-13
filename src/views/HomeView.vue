@@ -197,7 +197,7 @@ export default {
                     <div class="title">{{ shop.subtitle }}</div>
                     <div
                       class="bar_img"
-                      :style="`background-image: url('/assets/img/shop/${shop.id}-1.jpg?time=202403291325')`"
+                      :style="`background-image: url('/assets/img/shop/${shop.id}-1.jpg?time=202409131325')`"
                     ></div>
                     <div class="bar_title">
                       <h5>{{ shop.store_name }}</h5>
@@ -241,7 +241,7 @@ export default {
                     <div class="title">{{ shop.subtitle }}</div>
                     <div
                       class="bar_img"
-                      :style="`background-image: url('/assets/img/shop/${shop.id}-1.jpg?time=202403291325')`"
+                      :style="`background-image: url('/assets/img/shop/${shop.id}-1.jpg?time=202409131325')`"
                     ></div>
                     <div class="bar_title">
                       <h5>{{ shop.store_name }}</h5>
@@ -285,7 +285,7 @@ export default {
                     <div class="title">{{ shop.subtitle }}</div>
                     <div
                       class="bar_img"
-                      :style="`background-image: url('/assets/img/shop/${shop.id}-1.jpg?time=202403291325')`"
+                      :style="`background-image: url('/assets/img/shop/${shop.id}-1.jpg?time=202409131325')`"
                     ></div>
                     <div class="bar_title">
                       <h5>{{ shop.store_name }}</h5>
